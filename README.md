@@ -25,7 +25,6 @@ Passionate about technology, daily seeking the best practices to structure a goo
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uhlick&show_icons=true&theme=radical)
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/uhlick/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/uhlick/github-readme-stats) <img align="right" alt="meu-gif" height="320" width="320" src="https://share-cdn.picrew.me/shareImg/org/202111/338224_RoOengPE.png">
  
 
- 
