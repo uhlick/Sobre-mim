@@ -13,7 +13,8 @@ Passionate about technology, daily seeking the best practices to structure a goo
 < O trabalho duro vence o talento sempre que o talento não trabalha duro. Kevin Durant.   
  Hard work beats talent when talent doesn't work hard. Kevin Durant. >/
  
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+
 
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uhlick&show_icons=true&theme=radical)
