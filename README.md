@@ -11,13 +11,13 @@ Passionate about technology, daily seeking the best practices to structure a goo
 * Website development (html and css)  
 
 < O trabalho duro vence o talento sempre que o talento não trabalha duro. Kevin Durant.   
- Hard work beats talent when talent doesn't work hard. Kevin Durant. >
+ Hard work beats talent when talent doesn't work hard. Kevin Durant. >/
  
 <div style="display: inline_block"><br>
 <img align="center" alt="uh-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="center" alt="uh-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="center" alt="uh-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<div>/
+<div>
 
 
 
