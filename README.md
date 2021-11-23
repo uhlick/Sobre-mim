@@ -1,4 +1,4 @@
- Olá, sou Gustavo  🔭
+ *Olá, sou Gustavo
  Hello, im Gustavo
 
 * Apaixonado por tecnologia, buscando diariamente as melhores práticas para estruturar um bom projeto.	
@@ -12,3 +12,4 @@
 
 * O trabalho duro vence o talento sempre que o talento não trabalha duro. Kevin Durant.
  Hard work beats talent when talent doesn't work hard. Kevin Durant.
+ 
