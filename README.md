@@ -1,5 +1,5 @@
-Olá, sou Gustavo 🥽  
-Hello, im Gustavo
+## Olá, sou Gustavo 🥽  
+## Hello, im Gustavo
  
 Apaixonado por tecnologia, buscando diariamente as melhores práticas para estruturar um bom projeto.  
 Passionate about technology, daily seeking the best practices to structure a good projects.
@@ -12,4 +12,7 @@ Passionate about technology, daily seeking the best practices to structure a goo
 
 < O trabalho duro vence o talento sempre que o talento não trabalha duro. Kevin Durant.   
  Hard work beats talent when talent doesn't work hard. Kevin Durant. >/
+ 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uhlick&show_icons=true&theme=radical)
+
  
