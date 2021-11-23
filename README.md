@@ -15,6 +15,7 @@ Passionate about technology, daily seeking the best practices to structure a goo
  
 <i class="devicon-html5-plain-wordmark colored"></i>
 
+<img align="center" alt="uh-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 
 
 
