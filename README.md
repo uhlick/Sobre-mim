@@ -1,5 +1,5 @@
- * Olá, sou Gustavo
- Hello, im Gustavo
+Olá, sou Gustavo  
+Hello, im Gustavo
  
 < Apaixonado por tecnologia, buscando diariamente as melhores práticas para estruturar um bom projeto.	
 Passionate about technology, daily seeking the best practices to structure a good projects.>/
