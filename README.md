@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @uhlick
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning HTML/CSS
-- 💞️ I’m looking to collaborate on a junior job
-- 📫 How to reach me tutauhlick@hgmail.com
+ Olá, sou Gustavo  🔭
+ Hello, im Gustavo
 
-<!---
-uhlick/uhlick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Apaixonado por tecnologia, buscando diariamente as melhores práticas para estruturar um bom projeto
+Passionate about technology, daily seeking the best practices to structure a good projects.
+
+
+Principais Tecnologias no trabalho e estudo:
+Main Technologies in work and study:
+
+Desenvolvimento de sites (html e css)
+Website development (html and css)
+
+O trabalho duro vence o talento sempre que o talento não trabalha duro. Kevin Durant.
+Hard work beats talent when talent doesn't work hard. Kevin Durant.
