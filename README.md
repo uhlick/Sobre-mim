@@ -1,4 +1,4 @@
-Olá, sou Gustavo  
+Olá, sou Gustavo 🥽  
 Hello, im Gustavo
  
 Apaixonado por tecnologia, buscando diariamente as melhores práticas para estruturar um bom projeto.  
