@@ -25,6 +25,6 @@ Passionate about technology, daily seeking the best practices to structure a goo
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uhlick&show_icons=true&theme=radical)
  
- <img align="right" alt="meu-gif" height="320" width="320" src="https://share-cdn.picrew.me/shareImg/org/202111/338224_RoOengPE.png">
+ <img align="left" alt="meu-gif" height="320" width="320" src="https://share-cdn.picrew.me/shareImg/org/202111/338224_RoOengPE.png">
  
  ![snake gif](https://github.com/uhlick/uhlick/blob/output/github-contribution-grid-snake.gif)
