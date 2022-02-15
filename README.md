@@ -7,8 +7,8 @@ Passionate about technology, daily seeking the best practices to structure a goo
  Principais Tecnologias no trabalho e estudo:  
  Main Technologies in work and study:  
 
-* Desenvolvimento de sites (html, css)   
-* Website development (html, css)  
+* Desenvolvimento de sites (HTML5, CSS3)   
+* Website development (HTML5, CSS3)  
 
 < O trabalho duro vence o talento sempre que o talento não trabalha duro. Kevin Durant.   
  Hard work beats talent when talent doesn't work hard. Kevin Durant. >/
