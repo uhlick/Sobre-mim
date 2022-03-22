@@ -2,6 +2,7 @@
 ## Hello, im Gustavo
  
 Apaixonado por tecnologia, buscando diariamente um código limpo.
+
 Passionate about technology, daily seeking the clean code.
 
  Principais Tecnologias no trabalho e estudo:  
