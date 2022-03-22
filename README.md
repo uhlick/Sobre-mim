@@ -1,8 +1,8 @@
 ## Olá, sou Gustavo 🥽  
 ## Hello, im Gustavo
  
-Apaixonado por tecnologia, buscando diariamente as melhores práticas para estruturar um bom projeto.  
-Passionate about technology, daily seeking the best practices to structure a good projects.
+Apaixonado por tecnologia, buscando diariamente um código limpo.
+Passionate about technology, daily seeking the clean code.
 
  Principais Tecnologias no trabalho e estudo:  
  Main Technologies in work and study:  
