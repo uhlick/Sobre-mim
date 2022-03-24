@@ -26,6 +26,8 @@ Passionate about technology, daily seeking the clean code.
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uhlick&show_icons=true&theme=radical)
  
+ <iframe src="https://giphy.com/embed/VTtANKl0beDFQRLDTh" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/thecodingspacerd-code-coding-eatsleepcode-VTtANKl0beDFQRLDTh">via GIPHY</a></p>
+ 
  <img align="left" alt="meu-gif" height="320" width="320" src="https://share-cdn.picrew.me/shareImg/org/202111/338224_RoOengPE.png">
  
  ![snake gif](https://github.com/uhlick/uhlick/blob/output/github-contribution-grid-snake.gif)
