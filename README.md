@@ -24,7 +24,6 @@ Passionate about technology, daily seeking the clean code.
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uhlick&show_icons=true&theme=radical)
  
- ##
  <img align="left" alt="meu-gif" height="320" width="320" src="https://media4.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=790b7611a6fda90e32599149ec0a3b7653d2a5342400d01d&rid=giphy.gif&ct=g">
  ##
  
