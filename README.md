@@ -1,5 +1,8 @@
 ## Oii, eu sou o Gustavo, apaixonado por tecnologia e programação 🥽  
  ##
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uhlick&show_icons=true&theme=radical)
+ ##
+  
 <div style="display: inline_block"><br>
 <img align="center" alt="uh-html" height="80" width="90" src="" />
 <img align="center" alt="uh-css" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -8,9 +11,6 @@
 
 ##
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uhlick&show_icons=true&theme=radical)
- 
- ##
  
    <img align="left" alt="meu-gif" height="320" width="320" src="https://media4.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=790b7611a6fda90e32599149ec0a3b7653d2a5342400d01d&rid=giphy.gif&ct=g">
  
