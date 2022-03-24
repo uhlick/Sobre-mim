@@ -15,7 +15,7 @@ Passionate about technology, daily seeking the clean code.
  Hard work beats talent when talent doesn't work hard. Kevin Durant. >/
  
 <div style="display: inline_block"><br>
-<img align="center" alt="uh-html" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="center" alt="uh-html" height="80" width="90" src="https://img2.gratispng.com/20180920/kl/kisspng-javascript-html5-cascading-style-sheets-css3-5ba40e8038ab77.3391088215374782722321.jpg" />
 <img align="center" alt="uh-css" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="center" alt="uh-python" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <div>
